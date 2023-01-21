@@ -1,0 +1,4 @@
+name = "sheldon-cooper"
+main = "src/index.js"
+compatibility_date = "2023-01-21"
+node_compat = true
